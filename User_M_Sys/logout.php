@@ -2,5 +2,5 @@
 session_start();
 unset($_SESSION['userid']);
 unset($_SESSION['name']);
-header("Location:../Home.html");
+header("Location:../index.html");
 ?>

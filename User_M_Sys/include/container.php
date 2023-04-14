@@ -33,8 +33,8 @@
     
    
  <div class="logo">
-  <a href="Home.html"><img src="../images/29221592-removebg-preview.png " width="120px" height="120px"></a>
-  <a href="Home.html"><h1><b>Digital Agriculture</b></h1></a>
+  <a href="index.html"><img src="../images/29221592-removebg-preview.png " width="120px" height="120px"></a>
+  <a href="index.html"><h1><b>Digital Agriculture</b></h1></a>
  </div>
 
  <br>

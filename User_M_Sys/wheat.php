@@ -36,7 +36,7 @@ $user = new User();
 <header> 
 <div class="navbar">
   <ul>
-   <li><a href="../Home.html"><b>Home</b></a></li>
+   <li><a href="../index.html"><b>Home</b></a></li>
 
     <li><b>About Us</b>
       <ul class="dropdown">
